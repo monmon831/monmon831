@@ -56,7 +56,7 @@ Hai! Saya Alisha Monifa, lulusan Diploma 4 (D4) Teknik Informatika yang memiliki
 - The project stages include text cleaning, preprocessing (tokenization, stopword removal, and lemmatization), automatic keyword-based labeling, and feature extraction using TF-IDF.
 - The three main algorithms used for classification are Naive Bayes, Logistic Regression, and Linear SVC, with Linear SVC achieving the highest accuracy of 97.46%.
 - The system is also integrated into a Flask-based website, allowing users to input product reviews directly and obtain classification results automatically.
-- The project results show that NLP is effective in understanding sustainability-related contexts in consumer reviews, making it useful for increasing awareness of responsible consumption. 
+- The project results show that NLP is effective in understanding sustainability-related contexts in consumer reviews, making it useful for increasing awareness of responsible consumption.
 🔗 [View Repository](https://github.com/monmon831/NLP-SustainabilityProductClassifier)  
 
 ---
