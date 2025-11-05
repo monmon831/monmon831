@@ -1,80 +1,106 @@
-## Hi there 👋
-
+Hi there 👋
 <h1 align="center">✨ Alisha Monifa ✨</h1>
 <p align="center">
-  <em>Data Analyst | AI / Machine Learning Engineer | Web & Mobile Developer | Modeller 3d</em>
+  <em>Data Analyst | AI/ML Engineer | Full-Stack Developer | 3D Modeler</em>
 </p>
 
----
+🌸 About Me
+Hi! I'm Alisha Monifa, a recent graduate with a Bachelor's degree (D4) in Informatics Engineering. I'm passionate about Data Analysis, Machine Learning, and Digital Media Development. I have hands-on experience building intelligent systems using Computer Vision, Natural Language Processing (NLP), and Geographic Information Systems (GIS). During my internship at the Department of Communication, Informatics, and Statistics of Riau Province, I contributed to public communications, digital content creation, and 3D animation development.
 
-## 🌸 About Me
-Hai! Saya Alisha Monifa, lulusan Diploma 4 (D4) Teknik Informatika yang memiliki ketertarikan pada bidang Analisis Data, Machine Learning, dan Pengembangan Media Digital. Saya memiliki pengalaman dalam membangun sistem cerdas berbasis Computer Vision, Natural Language Processing (NLP), dan Sistem Informasi Geografis (GIS). Selama magang di Dinas Komunikasi, Informatika, dan Statistik Provinsi Riau, saya berkontribusi dalam komunikasi publik, pembuatan konten digital, serta pengembangan animasi 3D. 
+🔬 Focus: Data Analytics, Machine Learning, and Full-Stack Development
+🌱 Currently learning: Advanced Deep Learning & Big Data Processing
+🎯 Goal: Build impactful, data-driven applications that solve real-world problems
+✨ Motto: "Transform data into meaningful innovation"
 
-- 🔬 Focus: **Data Analytics, Machine Learning, and Full-Stack Development**  
-- 🌱 Currently learning: **Advanced Deep Learning**  
-- 🎯 Goal: Build impactful, data-driven applications that solve real-world problems  
-- ✨ Motto: *Turn analysis into meaningful innovation*  
 
----
-
-## 🚀 Tech Stack
+🚀 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,js,react,php,nodejs,mysql,git,github,figma,java,c#,unity,blender" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,js,react,php,laravel,nodejs,mysql,mongodb,git,github,figma,java,cs,unity,blender" />
+</p>
+Languages: Python, JavaScript, PHP, Java, C#
+Frameworks: React.js, Laravel, Flask, Node.js
+ML/AI: TensorFlow, PyTorch, scikit-learn, PySpark, OpenCV
+Databases: MySQL, MongoDB Atlas
+Tools: Git, Figma, Unity, Blender, Gradio
+
+🧑‍💻 Professional Experience
+🌊 Department of Communication, Informatics, and Statistics of Riau Province
+Public Communications & 3D Modeler (Internship)
+📍 Pekanbaru, Riau | ⏳ Feb 2024 – Jun 2024
+
+Managed official social media accounts and created informative visual content for public engagement
+Captured and edited photos/videos of official government activities and events
+Compiled internal activity reports and published comprehensive documentation
+Designed and produced 3D animations for public information media about the Riau Command Center (RCC)
+
+
+📌 Featured Projects
+🤖 Sustainability Product Review Classification API
+Tech: Python, Flask, scikit-learn, NLP, TF-IDF
+
+Developed an automated ML classification system (Naive Bayes + TF-IDF) to analyze e-commerce product reviews from sustainability perspective (SDG 12), achieving 88% accuracy
+Built RESTful API with single/batch prediction features and confidence scoring for 4 sustainability categories
+Implemented text preprocessing and SMOTE for handling imbalanced datasets, resulting in F1-score of 0.88
+🔗 View Repository
+
+🎨 Dominant Color Detection System (Computer Vision)
+Tech: Python, OpenCV, K-Means Clustering, Gradio
+
+Developed a Computer Vision system for dominant color extraction using K-Means Clustering with 85-95% accuracy
+Built an interactive web application featuring click detection, real-time processing, and RGB/HEX color palette visualization
+Implemented color space conversion (RGB ↔ HSV) and optimized image preprocessing with LANCZOS resampling
+🔗 View Repository
+
+🗺️ Geographic Information System for Poor Communities Distribution
+Tech: Laravel, OpenLayers, MySQL, GeoJSON
+
+Built a web-based GIS using Laravel and OpenLayers to map 50+ families receiving Family Hope Program (PKH) in Tebing Tinggi Okura Sub-district
+Integrated MySQL database with interactive maps for geographic data management and real-time visualization
+Implemented CRUD system with admin authentication, photo upload, and GeoJSON format for decision-making support
+🔗 View Repository
+
+💰 Finance Dashboard (Personal Finance Management)
+Tech: React.js, Recharts, Tailwind CSS, LocalStorage API
+
+Developed a modern finance management web app featuring budget planner, real-time notifications, and interactive data visualization
+Implemented data persistence using LocalStorage API with search/filter features and CSV export functionality
+Built responsive UI/UX with dark mode support and optimal display across all devices
+
+🏴‍☠️ One Piece Tweet Scraping & ETL Pipeline
+Tech: Python, PySpark, MongoDB Atlas, Tweet-Harvest
+
+Built an ETL pipeline for web scraping 234+ tweets using Tweet-Harvest, achieving 100% success rate for data cleaning
+Implemented distributed data processing using PySpark 3.5.3 for efficient tweet data transformation
+Integrated MongoDB Atlas as cloud database for storage and retrieval of scraped data
+
+
+📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=monmon831&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monmon831&layout=compact&theme=tokyonight" height="165" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=monmon831&theme=tokyonight" height="165" />
 </p>
 
----
-## 🧑‍💻 Experience
+🏆 Achievements & Certifications
 
-### 🌊 Department of Communication, Informatics, and Statistics of Riau Province | *Public Communications & 3D Modeller (Internship)*  
-📍 Pekanbaru, Riau | ⏳ Feb 2024 – Jun 2024  
+🎓 Bachelor's Degree (D4) in Informatics Engineering - Politeknik Caltex Riau
+💼 Completed 5-month internship at Government Institution (Riau Province)
+🚀 Developed 5+ end-to-end projects in ML, Computer Vision, and Web Development
 
-- Manage official social media accounts and create informative and visual content for publication.
-- Take photos and videos of official activities and edit them.
-- Create internal activity reports and publish documentation results.
-- Design and produce 3D animations as public information media about the Riau Command Center (RCC). 
 
----
-
-## 📌 Featured Projects
-
-### 🎨 Detecting Dominant Colors in an Image  
-- The system is capable of grouping image pixels based on color similarity and presenting the results as a representative palette of dominant colors.
-- The image preprocessing process (conversion to RGB, resizing, and normalization) improves processing efficiency and the accuracy of color extraction.
-- The implementation of a web-based interface using Gradio simplifies user interaction for uploading images, setting the number of dominant colors, and displaying analysis results visually.
-- Interactive features such as pixel marking based on selected colors and a palette download option enhance the system’s functionality and user experience.   
-🔗 [View Repository](https://github.com/monmon831/Computer-Vision)  
-
-### 🔷 Geographic Information System Implementation for Mapping the Distribution of Low-Income Communities (Case Study: Tebing Tinggi Okura Village)  
-- The implementation of GIS helps the village administration make strategic decisions, particularly in determining priority recipients of social assistance programs such as the Family Hope Program (PKH).
-- The displayed data is derived from georeferencing and the processing of poverty data, including the head of the household’s name, number of family members, group, address, and house photo.
-- The system allows administrators to add, edit, and delete data dynamically through a web-based interface.
-- The map visualization provides a clear representation of poverty distribution, supporting the effectiveness of poverty alleviation programs in the area.  
-🔗 [View Repository](https://github.com/monmon831/GISPersebaranMasyarakatMiskin)
-
-### 🤖 NLP - Sustainability Product Classifier(PREDICTID Dataset)  
-- The system is capable of analyzing and classifying product reviews into four categories: Wasteful Packaging, Non-Durable Products, Durable and High-Quality Products, and Neutral.
-- The project stages include text cleaning, preprocessing (tokenization, stopword removal, and lemmatization), automatic keyword-based labeling, and feature extraction using TF-IDF.
-- The three main algorithms used for classification are Naive Bayes, Logistic Regression, and Linear SVC, with Linear SVC achieving the highest accuracy of 97.46%.
-- The system is also integrated into a Flask-based website, allowing users to input product reviews directly and obtain classification results automatically.
-- The project results show that NLP is effective in understanding sustainability-related contexts in consumer reviews, making it useful for increasing awareness of responsible consumption.
-🔗 [View Repository](https://github.com/monmon831/NLP-SustainabilityProductClassifier)  
-
----
-
-## 📊 GitHub Stats
+📫 Connect With Me
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=monmon831&show_icons=true&theme=tokyonight" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monmon831&layout=compact&theme=dracula" height="150" />
-</p>
-
----
-
-## 📫 Connect With Me
-<p align="center">
-  <a href="https://github.com/monmon831"><img src="https://img.shields.io/badge/Portfolio-ff69b4?style=for-the-badge&logo=vercel&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/alisha-monifa"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:alishamonifa3@gmail.com"><img src="https://img.shields.io/badge/Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/monmon831"><img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/monmon831"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/monmon831"><img src="https://img.shields.io/badge/Portfolio-FF69B4?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+</p>
+<p align="center">
+  <em>⭐ Feel free to explore my repositories and don't hesitate to reach out for collaboration!</em>
 </p>
 
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=monmon831&color=blueviolet&style=flat-square&label=Profile+Views" />
+</p>
