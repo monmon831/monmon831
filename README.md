@@ -75,7 +75,7 @@ Tech: Python, PySpark, MongoDB Atlas, Tweet-Harvest
 - Built an ETL pipeline for web scraping 234+ tweets using Tweet-Harvest, achieving 100% success rate for data cleaning
 - Implemented distributed data processing using PySpark 3.5.3 for efficient tweet data transformation
 - Integrated MongoDB Atlas as cloud database for storage and retrieval of scraped data
-🔗 [View Repository](https://github.com/monmon831/GISPersebaranMasyarakatMiskin)
+🔗 [View Repository](https://github.com/monmon831/onepiece-tweet-scraping.git)
 
 ---
 
