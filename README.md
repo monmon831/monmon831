@@ -26,7 +26,7 @@ Hi! I'm Alisha Monifa, a recent graduate with a Bachelor's degree (D4) in Inform
 
 ## 🧑‍💻 Professional Experience
 🌊 Department of Communication, Informatics, and Statistics of Riau Province
-Public Communications & 3D Modeler (Internship)
+\b Public Communications & 3D Modeler (Internship)
 📍 Pekanbaru, Riau | ⏳ Feb 2024 – Jun 2024
 
 - Managed official social media accounts and created informative visual content for public engagement
