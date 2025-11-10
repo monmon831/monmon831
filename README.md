@@ -67,7 +67,7 @@ Tech: React.js, Recharts, Tailwind CSS, LocalStorage API
 - Developed a modern finance management web app featuring budget planner, real-time notifications, and interactive data visualization
 - Implemented data persistence using LocalStorage API with search/filter features and CSV export functionality
 - Built responsive UI/UX with dark mode support and optimal display across all devices
-🔗 [View Repository](https://github.com/monmon831/GISPersebaranMasyarakatMiskin)
+🔗 [View Repository](https://github.com/monmon831/finance-dashboard)
 
 ### 🏴‍☠️ One Piece Tweet Scraping & ETL Pipeline
 Tech: Python, PySpark, MongoDB Atlas, Tweet-Harvest
