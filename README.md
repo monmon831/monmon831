@@ -1,7 +1,7 @@
 ## Hi there 👋
 <h1 align="center">✨ Alisha Monifa ✨</h1>
 <p align="center">
-  <em>Data Analyst | AI/ML Engineer | Full-Stack Developer | 3D Modeler</em>
+  <em>Data Analyst | AI/ML Engineer | Full-Stack Developer</em>
 </p>
 
 ## 🌸 About Me
