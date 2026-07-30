@@ -25,18 +25,36 @@ Hi! I'm Alisha Monifa, a recent graduate with a Bachelor's degree (D4) in Inform
 - Tools: Git, Figma, Unity, Blender, Gradio
 
 ## 🧑‍💻 Professional Experience
+### 🏛️ Class IIB Pasir Pangarayan Correctional Institution
+General Facilities Management (Internship)
+📍 Pasir Pangarayan, Riau | ⏳ Nov 2025 – May 2026
+
+- Developed SIMPEL (Sistem Input Media Publikasi Elektronik Lapas), a web-based administrative automation system that streamlined publication data management and report generation.
+- Automated document creation by integrating Google Apps Script with Google Sheets and Google Drive, reducing repetitive manual administrative tasks.
+- Assisted in administrative operations, documentation, and digital record management to improve workflow efficiency.
+- Supported educational and institutional activities through documentation and digital content management.
+
 ### 🌊 Department of Communication, Informatics, and Statistics of Riau Province
-Public Communications & 3D Modeler (Internship)
+IT Support (Internship)
 📍 Pekanbaru, Riau | ⏳ Feb 2024 – Jun 2024
 
-- Managed official social media accounts and created informative visual content for public engagement
-- Captured and edited photos/videos of official government activities and events
-- Compiled internal activity reports and published comprehensive documentation
-- Designed and produced 3D animations for public information media about the Riau Command Center (RCC)
+- Assisted in information system administration and digital documentation.
+- Processed and maintained organizational data using Microsoft Office and Google Workspace.
+- Supported daily IT operations, data validation, and technical documentation.
+- Collaborated with cross-functional teams to ensure effective information management.
 
 ---
 
 ## 📌 Featured Projects
+### 📋 SIMPEL (Sistem Input Media Publikasi Elektronik Lapas)
+Tech: Google Apps Script, JavaScript, HTML, CSS, Google Sheets, Google Drive
+
+- Developed a web-based administrative automation system to manage publication records and automatically generate reports, reducing manual administrative tasks and improving workflow efficiency
+- Integrated Google Sheets and Google Drive to automate data processing, document generation, and centralized publication management
+- Designed a user-friendly interface for efficient data entry and report management within the correctional institution
+
+🔗 [View Repository](https://github.com/monmon831/simpel)
+
 ### 🤖 Sustainability Product Review Classification API
 Tech: Python, Flask, scikit-learn, NLP, TF-IDF
 
